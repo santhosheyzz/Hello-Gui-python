@@ -1,5 +1,5 @@
 
-# simple Hello World GUI
+# Simple Hello World GUI
 
 ## Project Overview
 This project demonstrates a basic graphical user interface (GUI) application in Python using the Tkinter library. The application features a simple window displaying the message "Hello, World!" and includes an exit button to close the application. It serves as an introduction to GUI programming and a foundation for building more complex applications.
